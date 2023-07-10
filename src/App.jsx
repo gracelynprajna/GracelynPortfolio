@@ -1,7 +1,11 @@
 import { Routes, Route } from "react-router-dom";
-import Homepage from "./pages/homepage";
-import Projects from "./pages/projects";
-import Contact from "./pages/contact";
+// import Homepage from "./pages/homepage";
+// import Projects from "./pages/projects";
+// import Contact from "./pages/contact";
+import Homepage from "./pages/homepage.jsx";
+import Projects from "./pages/projects.jsx";
+import Contact from "./pages/contact.jsx";
+
 
 import "./App.css";
 
